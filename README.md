@@ -1,4 +1,4 @@
-# Solving a Constraint Satisfaction Problem on Sudoku boards.
+# "Constraint Satisfaction Problem"-solver for Sudoku boards.
 
 1. Run "assignment5.py"
 
